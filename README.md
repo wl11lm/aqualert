@@ -47,8 +47,11 @@ O AQUALERT é uma solução embarcada e autônoma de baixo custo que realiza o m
 > **📷 Dashboard em tempo real:**
 > ![Dashboard](./img/dashboard1.png)
 
-> **🎥 Demonstração do sistema em campo (YouTube ou Google Drive):**
-> [Ver vídeo ➜](https://link)
+> **🎥 Resumo do sistema:**
+> [Ver vídeo ➜](https://drive.google.com/file/d/1V0k5_7Y1LrSwopJAPtiMMAwv4M4_pRc4/view?usp=drive_link)
+
+> **🎥 Demonstração do sistema:**
+> [Ver vídeo ➜](https://drive.google.com/file/d/1IcVHtaR2IsCVhfoSPKuiKI4bz8VAiVJX/view?usp=drive_link)
 
 ---
 
